@@ -2,9 +2,9 @@
 oboe (Open Biomedical Ontologies Extraction tools) package {.title .toc-ignore}
 ==========================================================
 
-#### *Daniel Lindholm* {.author}
+#### *Daniel Lindholm* 
 
-#### *9/14/2016* {.date}
+#### *9/14/2016*
 
 
 This package reads ontologies in OBO format and parses terms into a list
