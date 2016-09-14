@@ -1,0 +1,12 @@
+Package: oboe
+Type: Package
+Title: Open Biomedical Ontology Extraction Tools (oboe)
+Version: 0.0.1
+Author: Daniel Lindholm
+Maintainer: Daniel Lindholm <daniel.lindholm@ucr.uu.se>
+Description: A toolbox for dealing with OBO files in R
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Depends: parallel
+RoxygenNote: 5.0.1
