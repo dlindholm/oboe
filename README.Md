@@ -1,5 +1,5 @@
 
-oboe (Open Biomedical Ontologies Extraction tools) package {.title .toc-ignore}
+oboe (Open Biomedical Ontologies Extraction tools) package
 ==========================================================
 
 #### *Daniel Lindholm* 
