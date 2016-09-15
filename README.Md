@@ -182,8 +182,8 @@ doid <- remove_obsolete(doid)
 
 ### Finding terms
 
-You could look up terms in different ways. The *find\_entry* is the
-function for that. Look for a specific entry id like this:
+You could look up terms in different ways. The *find\_entry* function is used for that.
+Look for a specific entry id like this:
 
 ``` {.r}
 doid[find_entry(doid, "id", "DOID:8805")]
